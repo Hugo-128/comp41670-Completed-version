@@ -1,0 +1,22 @@
+# Maven / Java build output
+target/
+build/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# 内部/过程文档 —— 暂不提交（报告填好封面后，从下面移除 Design_Report_DRAFT.md 再提交）
+PROJECT_CONTEXT.md
+明早push清单.md
+团队协作与DDL指南.md
+Design_Report_DRAFT.md
